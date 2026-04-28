@@ -38,3 +38,4 @@ export NVIDIA_API_KEY="your_api_key_here"
 ### 3. Run the script
 
 python3 basic_llm_call.py
+
